@@ -29,12 +29,12 @@ Execute as células do notebook sequencialmente.
 Os gráficos serão exibidos no output das células correspondentes.
 O arquivo dados_pnadc_tratados.xlsx será criado com os dados processados.
 
-Requisitos
+Requisitos:
 Python 3.6+
 Bibliotecas Python listadas na primeira célula (unidecode, openpyxl, pandas, plotly.express, nbformat). Essas bibliotecas serão instaladas automaticamente ao executar a primeira célula.
 
-Dados
+Dados:
 Os dados utilizados neste notebook são provenientes da PNADC. A coluna RDPC representa a renda per capita.
 
-Análise
+Análise:
 Os gráficos gerados fornecem uma visão da distribuição da renda per capita entre as diferentes regiões e estados do Brasil no período de 2014 a 2017. É possível observar as diferenças regionais e estaduais na renda.
