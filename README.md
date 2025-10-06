@@ -23,7 +23,7 @@ Gera e exibe um gráfico de barras da renda per capita por Estado.
 
 Salvamento dos Dados Tratados: Salva o dataframe filtrado e tratado em um novo arquivo Excel (dados_pnadc_tratados.xlsx).
 
-Como Executar o Notebook
+Como Executar o Notebook:
 Certifique-se de ter o arquivo de dados original (BASE PNADC 2012 A 2017 ABR2019 10042019.xlsx) no mesmo diretório do notebook ou atualize o caminho do arquivo no código.
 Execute as células do notebook sequencialmente.
 Os gráficos serão exibidos no output das células correspondentes.
