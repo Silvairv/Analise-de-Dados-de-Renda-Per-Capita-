@@ -15,8 +15,8 @@ Cria novas colunas (REG_AGREGA e ESTADO_PARA_AGREGACAO) para mapear a região e 
 
 Agregação dos Dados:
 Agrega os dados por estado (df_estado) e por região (df_regiao), calculando o primeiro valor de RDPC para cada grupo.
-Visualização dos Dados:
 
+Visualização dos Dados:
 Define funções (plot_regiao e plot_estado) para gerar gráficos de barras interativos utilizando a biblioteca Plotly Express.
 Gera e exibe um gráfico de barras da renda per capita por Região e Brasil.
 Gera e exibe um gráfico de barras da renda per capita por Estado.
